@@ -1,0 +1,4 @@
+function isEnoughCapacity(products, containerSize) {
+    
+
+ }
